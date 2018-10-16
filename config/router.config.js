@@ -39,6 +39,11 @@ export default [
             name: 'workplace',
             component: './Dashboard/Workplace',
           },
+          {
+            path: '/dashboard/todo',
+            name: 'todo',
+            component: './Process/Todo',
+          },
         ],
       },
       // forms
